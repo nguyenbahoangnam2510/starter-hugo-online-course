@@ -4,10 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Trang chủ
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Hỗ trợ
     url: '/course'
     weight: 20
     identifier: courses

@@ -2,19 +2,20 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Tham khảo những khoá học uy tín nhất
 subtitle:
 content:
   page_type: book
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: Tất cả bài học
       tag: '*'
-    - name: Data Visualization
+    - name: Đào tạo kỹ năng Sales Agent
       tag: Data Visualization
-    - name: Statistics
+    - name: Điểm tin bất động sản
       tag: Statistics
+
 design:
   columns: '1'
   view: 3
